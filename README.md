@@ -61,5 +61,5 @@ Enabled HR stakeholders to monitor workforce health, identify high-attrition dep
 
 ## 🖼️ Dashboard Preview
 
-<img width="1002" height="539" alt="Screenshot 2026-07-19 163130" src="https://github.com/user-attachments/assets/1a95dcb3-5f33-4520-80d1-b8e25ce0b1ea" />
+<img width="1002" height="539" alt="Screenshot 2026-07-19 163130" src="https://github.com/user-attachments/assets/9d27bd08-e361-4edf-bdc2-de3f59c30f0b" />
 
